@@ -1,0 +1,24 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Star Wars class app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECOtterstrom/starwars.git"
+  },
+  "author": "Erin Otterstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ECOtterstrom/starwars/issues"
+  },
+  "homepage": "https://github.com/ECOtterstrom/starwars#readme"
+}
